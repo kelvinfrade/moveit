@@ -4,7 +4,7 @@
 
 <p>O Move.it foi desenvolvido durante um evento da RocketSeat chamado Next Level Week, onde o instrutor Diego Fernandes ensina como dominar ferramentas de forma rápida e eficiente. Essa semana foi bem intensa, com muito código e desafios. tendo como fonte de estudos o Desenvolvimento Web.</p>
 
-<img src="./public/img/moveit.gif">
+<img src="./public/img/moveit.png">
 
 
 ## 🚀 Tecnologias utilizadas
